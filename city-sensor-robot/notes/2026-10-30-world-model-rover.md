@@ -1,8 +1,8 @@
 # World-model data robot: brainstorm notes (2026-10-27 to 10-30)
 
 Status: brainstorm only. No design approved, nothing built.
-Source: the "Mars rover teaching demo" session (2026-10-27 to 10-30). Close cousin of
-[city-sensor-robot](../../city-sensor-robot/), which is the simulated, sensor-heavy version.
+Source: the "Mars rover teaching demo" session (2026-10-27 to 10-30). This is version B of
+this project; version A is the simulated, sensor-heavy design in [docs/](../docs/).
 
 ## The idea, how it changed
 1. Started as: use a free, open world model to teach a simulated Mars rover, as a portfolio demo.
