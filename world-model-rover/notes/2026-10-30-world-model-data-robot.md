@@ -28,3 +28,9 @@ Source: the "Mars rover teaching demo" session (2026-10-27 to 10-30). Close cous
 
 ## Open question still with Nick
 - First ride: where does it drive, and is he walking next to it with a controller, or is it supposed to go on its own?
+
+## Sources
+- [Runway Praxis-1](https://runway.com/research/introducing-praxis-1)
+- [LTX world models roundup](https://ltx.io/blog/best-world-models)
+- [AI4Mars on data.nasa.gov](https://data.nasa.gov/dataset/ai4mars-a-dataset-for-terrain-aware-autonomous-driving-on-mars) and [on Zenodo](https://zenodo.org/records/15995036)
+- [AI4Mars paper (CVPRW 2021)](https://openaccess.thecvf.com/content/CVPR2021W/AI4Space/papers/Swan_AI4MARS_A_Dataset_for_Terrain-Aware_Autonomous_Driving_on_Mars_CVPRW_2021_paper.pdf)
