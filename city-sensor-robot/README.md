@@ -11,7 +11,13 @@ and world-model work. Two versions of the same idea:
 | Doc | [docs/2026-10-26-city-sensor-robot-design.md](docs/2026-10-26-city-sensor-robot-design.md) | [notes/2026-10-30-world-model-rover.md](notes/2026-10-30-world-model-rover.md) |
 | State | Design drafted, 3 questions open | Brainstorm notes |
 
-Rules for both, since this repo is public: no faces, licence plates or real network names in
+**C. Hoverboard city rover (real, budget).** The cheapest real hardware for B: a used
+hoverboard's motors and battery under an extrusion frame, Raspberry Pi brain, Nick's full
+sensor list. About CA$2,200 to 2,900, carries 50 kg or more. Parts, sensors, shopping list and
+risks: [notes/2026-11-06-hoverboard-rover.md](notes/2026-11-06-hoverboard-rover.md). Model:
+[blender/](blender/).
+
+Rules for all versions, since this repo is public: no faces, licence plates or real network names in
 anything published; no raw footage or dataset files committed; no keys (`.env` is ignored).
 
 Open questions:
