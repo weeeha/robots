@@ -1,0 +1,92 @@
+{
+ "size": [
+  1600,
+  1200
+ ],
+ "anchors": {
+  "Hoverboard hub motor, 350 W (x2)": [
+   715,
+   1042
+  ],
+  "Swivel caster (rear, hidden)": [
+   668,
+   992
+  ],
+  "2020 aluminium frame": [
+   822,
+   1059
+  ],
+  "Printed shell (batteries, Pi 5 inside)": [
+   660,
+   880
+  ],
+  "LED headlights": [
+   898,
+   928
+  ],
+  "Ground IR thermometer (MLX90614)": [
+   948,
+   1029
+  ],
+  "Rain sensor": [
+   979,
+   832
+  ],
+  "E-stop": [
+   625,
+   761
+  ],
+  "GNSS antenna (behind mast)": [
+   761,
+   761
+  ],
+  "RTL-SDR antenna": [
+   697,
+   574
+  ],
+  "3D depth camera (OAK-D Lite)": [
+   837,
+   479
+  ],
+  "Thermal camera": [
+   807,
+   520
+  ],
+  "Night camera + IR light": [
+   868,
+   513
+  ],
+  "4-mic array (ReSpeaker XVF3800)": [
+   758,
+   445
+  ],
+  "UV index sensor (LTR390)": [
+   766,
+   453
+  ],
+  "Light sensor (TSL2591)": [
+   853,
+   445
+  ],
+  "Lidar (Unitree L2)": [
+   732,
+   196
+  ],
+  "Air shield: SEN55 + SCD41 CO2": [
+   858,
+   389
+  ],
+  "Wind: cup anemometer": [
+   617,
+   265
+  ],
+  "Wi-Fi / Bluetooth scanner (ESP32-S3)": [
+   715,
+   668
+  ],
+  "Safety flag": [
+   719,
+   61
+  ]
+ }
+}
